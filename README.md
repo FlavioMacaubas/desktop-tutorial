@@ -1,6 +1,6 @@
 # desktop-tutorial
 
-Anota├º├Áes e exerc├¡cios de an├ílise de dados em R.
+Exercícios e anotações de análise de dados em R.
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Data%20Engineering%20%2B%20IA-0A66C2?style=flat)
