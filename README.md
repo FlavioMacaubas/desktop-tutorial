@@ -1,6 +1,12 @@
-# Bem vindo ao GitHub Desktop!
+# desktop-tutorial
 
-Este é o LEIA-ME. LEIA-MEs são onde você pode comunicar o que é o seu projeto e como utilizá-lo
+Anotações e exercícios de análise de dados em R.
 
-Escreva seu nome na linha 6, salve, e volte ao GitHub Desktop.
-Flávio Macaúbas
+## Objetivo
+Registrar aprendizados e experimentos iniciais com manipulação e análise de dados no ecossistema R.
+
+## Stack
+R
+
+## Observação
+Repositório de estudo, mantido como histórico de aprendizado.
