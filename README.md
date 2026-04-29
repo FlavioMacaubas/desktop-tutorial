@@ -27,7 +27,7 @@ Este repositório faz parte do meu portfólio em **Data Engineering + IA aplicad
 
 - Fortalecer reprodutibilidade (scripts e instruções de execução)
 - Melhorar cobertura de documentação por módulo
-- Adicionar métricas/resultados quando aplicável
+- Adicionar métricas e resultados quando aplicável
 
 ---
 
@@ -47,26 +47,25 @@ Este repositório faz parte do meu portfólio em **Data Engineering + IA aplicad
 
 ### Passos
 
-`ash
+~~~bash
 git clone https://github.com/FlavioMacaubas/desktop-tutorial.git
 cd desktop-tutorial
 
 # Crie e ative seu ambiente (se aplicável)
 # Instale dependências (se houver)
-# Execute notebooks/scripts conforme estrutura do projeto
-`
+# Execute notebooks/scripts conforme a estrutura do projeto
+~~~
 
 ---
 
 ## Estrutura do repositório
 
-`	ext
+~~~text
 desktop-tutorial/
-├── notebooks/   # quando aplicável
-├── src/         # quando aplicável
-├── data/        # quando aplicável
+├── scripts/
+├── datasets/
 └── README.md
-`
+~~~
 
 ---
 
